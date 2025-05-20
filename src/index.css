@@ -1,0 +1,10 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  height:100vh;
+  background:url('images/tengen-uzui-dark-7680x4320-18405.jpg');
+  background-size:cover;
+  font-family:'poppins';
+}

@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Who is considered the god and creator of all demons in DEMON SLAYER ?",
+      option1: "Akaza",
+      option2: "Gyokko",
+      option3: "Muzan",
+      option4: "Kyogai",
+      ans: 3,
+    },
+    {
+      question: "Who is the Love Hashira in DEMON SLAYER ?",
+      option1: "Obanai Iguro",
+      option2: "Mitsuri Kanroji",
+      option3: "Muichiro Tokito",
+      option4: "Gyomei Himejima",
+      ans: 2,
+    },
+    {
+      question: "Who taught Tanjiro the water-breathing technique ?",
+      option1: "Giyu Tomioka",
+      option2: "Kyojuro Rengoku",
+      option3: "Shinobu Kocho",
+      option4: "Sakonji Urokodaki",
+      ans: 4,
+    },
+    {
+      question: "What is the special type of sword that Demon Slayers weild to kill demons ?",
+      option1: "Nichrin Sword ",
+      option2: "Lighting blades",
+      option3: "Cursed Katanas",
+      option4: "Fire Katanas",
+      ans: 1,
+    },
+    {
+      question: "Who is the Serpent Hashira ?",
+      option1: "Giyu Tomioka",
+      option2: "Muichiro Tokito",
+      option3: "Obanai Iguro",
+      option4: "Sanemi Shinazugawa",
+      ans: 3,
+    },
+  ];
