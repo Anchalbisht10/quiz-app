@@ -49,9 +49,6 @@ http://localhost:3000
 
 If it doesn’t open automatically, just copy and paste that link into your browser.
 
-## Demo  
-This project is not yet hosted. Please follow the steps above to run it locally.
-
 ## Author  
 Anchal Bisht  
 Email: anchal001bisht@gmail.com  
