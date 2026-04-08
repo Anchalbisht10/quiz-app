@@ -49,7 +49,9 @@ http://localhost:3000
 
 If it doesn’t open automatically, just copy and paste that link into your browser.
 
-## Author  
-Anchal Bisht  
-Email: anchal001bisht@gmail.com  
-GitHub: https://github.com/Anchalbisht10
+## Live Demo
+Check out the project here:
+[Quiz-app](https://quiz-app-zeta-inky.vercel.app)
+
+Built by Anchal Bisht  
+
